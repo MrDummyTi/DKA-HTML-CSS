@@ -1,0 +1,44 @@
+
+[href="Name"] {
+    color:orange;
+}
+.class{
+    color:#269191;
+}
+
+.table-black{
+    color:black;
+}
+
+.table-blue-border{
+    color:blue;
+    border-radius: 8px;
+}
+
+.table-bold {
+    font-weight: bold;
+}
+
+#NameFatText {
+    font-weight: bold;
+}
+
+/* html tr {
+    color: yellow;
+} */
+
+.list > li {
+    color: blue;
+}
+
+.font-size-md {
+    font-size: 36px;
+}
+
+.font-size-md.color-red {
+    color: red;
+}
+
+.font-size-md.color-gray {
+    color: gray;
+}
